@@ -1,11 +1,14 @@
 import { useState } from 'react'
 import './App.css'
+import BaseInfo from './components/BaseInfo'
+
+
 
 function App() {
   return (
     <>
       <main>
-        <div>Hello</div>
+        <BaseInfo></BaseInfo>
       </main> 
     </>
   )
