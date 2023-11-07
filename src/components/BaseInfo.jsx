@@ -1,7 +1,7 @@
 import styles from './BaseInfo.module.css';
 function BaseInfo() {
   return (
-    <article className=''>
+    <article>
         <h3>
         Lietojuma gadījumu diagramma ir uzvedbas modļua daļa
         </h3>
@@ -24,7 +24,6 @@ function BaseInfo() {
         jūsu sistēmas darbības jomu</li>
         </ul>
     </article>
-
   )
 }
 
