@@ -1,6 +1,7 @@
+import styles from './BaseInfo.module.css';
 function BaseInfo() {
   return (
-    <article>
+    <article className=''>
         <h3>
         Lietojuma gadījumu diagramma ir uzvedbas modļua daļa
         </h3>
