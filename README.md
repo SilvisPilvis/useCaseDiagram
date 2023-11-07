@@ -8,6 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # Darbojamies Tikai componets mapē
+# Komponentam obligāti 1. elementam jābūt `<atricle></atricle>` pārējos elementus iekšā šajā elementā.
 Lai pievienotu savam komponentam stilu components mapē
 izveido failu ar sava component vārdu un .module.css pieērs (`BaseInfo.module.css`)
 un savā component to importējiet pašā augšā pimērs `import styles from './BaseInfo.module.css';`.
