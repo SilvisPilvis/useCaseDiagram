@@ -1,4 +1,5 @@
 import styles from './Examples.module.css';
+// import image from '../src/assets/example.png'
 
 export const Examples = () => {
   return (
