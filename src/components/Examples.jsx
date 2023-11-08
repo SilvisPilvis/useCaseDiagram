@@ -1,11 +1,11 @@
 import styles from './Examples.module.css';
-// import image from '../src/assets/example.png'
+import image from './example.png'
 
 export const Examples = () => {
   return (
     <article>
         <h3>Piemērs un paskaidrojums.</h3>
-        <img src="../src/assets/example.png" alt="" />
+        <img src={image} alt="" />
     </article>
   )
 }
