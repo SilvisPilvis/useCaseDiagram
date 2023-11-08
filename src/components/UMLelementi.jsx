@@ -4,7 +4,7 @@ const UMLelementi = () => {
   return (
     <article>
     <h3>
-        kādi UML elementi ir šajā diagrammā?
+        Kādi UML elementi ir šajā diagrammā?
     </h3>
         <p>
         Use case diagramā var būt dažādi UML elementi, lai modelētu sistēmas funkcionalitāti un to, kā lietotāji un citas sistēmas sastāvdaļas saistās ar šo funkcionalitāti. 
