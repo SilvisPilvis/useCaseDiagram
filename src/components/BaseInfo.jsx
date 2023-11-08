@@ -6,8 +6,13 @@ function BaseInfo() {
         Lietojuma gadījumu diagramma ir uzvedbas modļua daļa
         </h3>
         <p>
-        Šī diagramma apraksta sistēmas augsta līmeņa funkcijas un darbības jomu. Šajās diagrammās ir norādītas arī mijiedarbības starp sistēmu un tās dalībniekiem. Lietošanas gadījumu diagrammās lietošanas gadījumi un dalībnieki apraksta, ko sistēma dara un kā dalībnieki to izmanto, bet ne to, kā sistēma darbojas iekšēji.
-        Šai diadrammai ir 4 galvenie elementi:
+          Šī diagramma apraksta sistēmas augsta līmeņa funkcijas un darbības jomu. Šajās diagrammās ir norādītas arī mijiedarbības starp sistēmu un tās dalībniekiem.
+        </p>
+        <p>
+          Lietošanas gadījumu diagrammās lietošanas gadījumi un dalībnieki apraksta, ko sistēma dara un kā dalībnieki to izmanto, bet ne to, kā sistēma darbojas iekšēji.
+        </p>
+        <p>
+          Šai diadrammai ir 4 galvenie elementi:
         </p>
         <ul>
             <li>sistēma</li>
